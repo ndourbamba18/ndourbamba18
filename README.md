@@ -1,6 +1,6 @@
 ### Nice to meet you 👋
 
-<h1 align="center">Hi 👋, I'm Bamba Ndour</h1>
+<h1 align="center">Hi 👋, I'm NdourCodeur</h1>
 <h3 align="center">Full Stack Developer and DevOps.</h3>
 <h6 align="center"> I'm a full Stack Developer in Dakar Senegal, I've been building website and web applications in Dakar since 2018.</h6>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndourbamba18&label=Profile%20views&color=0e75b6&style=flat" alt="ndourbamba18" /> </p>
