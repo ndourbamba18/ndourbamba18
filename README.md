@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, Python, JavaScript, Spring Boot, Django, Angular**
 
-- 📫 How to reach me **ndourcodeur@gmail.com**
+- 📫 How to reach me **ndourbamba18@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
