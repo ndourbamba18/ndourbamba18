@@ -13,8 +13,11 @@
 
 - 📫 How to reach me **ndourbamba18@gmail.com**
 
+-  📧 Reach me at your-email@example.com
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
