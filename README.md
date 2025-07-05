@@ -15,7 +15,7 @@
 
 - 📧 **ndourbamba18@gmail.com**
 
-- 🌐 Reach me at https://ndourbamba.github.io
+- 🌐 https://ndourbamba.github.io
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
