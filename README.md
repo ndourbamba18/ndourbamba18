@@ -11,9 +11,11 @@
 
 - 💬 Ask me about **Java, Python, JavaScript, Spring Boot, Django, Angular**
 
-- 📫 How to reach me **ndourbamba18@gmail.com**
+# 📫 How to reach me :
 
--  📧 Reach me at your-email@example.com
+- 📧 **ndourbamba18@gmail.com**
+
+- 🌐 Reach me at https://ndourbamba.github.io
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
